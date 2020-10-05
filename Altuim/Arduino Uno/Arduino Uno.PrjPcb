@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQADNNVH
 
+[Parameter1]
+Name=NotFitted
+Value=NF
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
