@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+AREF Pin=C?-2
+Added Component: Designator=J?(HDR FEMALE 6x2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.52000, 10 = 0.48300, 100 = 0.37050, 500 = 0.32220, 1000 = 0.26582, 5000 = 0.23360, 10000 = 0.23270 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "40438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7004-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_16U2 Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_AVCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_VCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_VCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+AREF Pin=C?-2
+Added Pin To Net: NetName=AD5/SCL Pin=J?-1
+Added Pin To Net: NetName=AD4/SDA Pin=J?-2
+Added Pin To Net: NetName=AD0 Pin=J?-3
+Added Pin To Net: NetName=AD2 Pin=J?-4
+Added Pin To Net: NetName=AD1 Pin=J?-5
+Added Pin To Net: NetName=AD0 Pin=J?-6

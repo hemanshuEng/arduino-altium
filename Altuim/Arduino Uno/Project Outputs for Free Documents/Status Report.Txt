@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:06:59 On 06/10/2020
+
+Output: Arduino_UNO_BOM
+Type  : BOM
+From  : Project [Arduino Uno.PrjPcb]
+   Generated File[Arduino_UNO_BOM-Arduino Uno.xls]
+   Generated File[Arduino_UNO_BOM-Arduino Uno.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 20:06:59 On 06/10/2020

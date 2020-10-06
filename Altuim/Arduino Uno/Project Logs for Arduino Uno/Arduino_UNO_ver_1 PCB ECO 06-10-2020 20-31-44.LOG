@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+AREF Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_16U2 Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_AVCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_VCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3_328P_VCC Pin=C?-2
+Added Pin To Net: NetName=+5V/3V3 Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+AREF Pin=C?-2
+Added Pin To Net: NetName=AD0 Pin=J?-1

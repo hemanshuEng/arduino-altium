@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:16:55 On 06/10/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Arduino Uno.PrjPcb]
+   Generated File[Bill of Materials-Arduino Uno.xls]
+   Generated File[Bill of Materials-Arduino Uno.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 20:17:37 On 06/10/2020

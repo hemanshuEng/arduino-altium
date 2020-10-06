@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=AD5/SCL Pin=J9-1
+Removed Pin From Net: NetName=AD4/SDA Pin=J9-2
+Removed Pin From Net: NetName=AD0 Pin=J9-3
+Removed Pin From Net: NetName=AD2 Pin=J9-4
+Removed Pin From Net: NetName=AD1 Pin=J9-5
+Removed Pin From Net: NetName=AD0 Pin=J9-6
+Removed Pin From Net: NetName=AD0 Pin=U3-26
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=AD0 Pin=J9-1
+Added Pin To Net: NetName=AD1 Pin=J9-2
+Added Pin To Net: NetName=AD2 Pin=J9-3
+Added Pin To Net: NetName=AD4/SDA Pin=J9-5
+Added Pin To Net: NetName=AD5/SCL Pin=J9-6
+Added Pin To Net: NetName=16U2_HDR_RESETn Pin=JP1-3
+Added Pin To Net: NetName=16U2_RESETn Pin=JP1-4
+Added Pin To Net: NetName=IO8 Pin=R24-2
+Added Pin To Net: NetName=16U2_BUF_RESETn Pin=U4-1
+Change Net Name : Old Net Name=16U2 RXD New Net Name=IO1
+Change Net Name : Old Net Name=16U2 TXD New Net Name=IO0
+Change Net Name : Old Net Name=NetD6_2 New Net Name=BUTTON_RESETn
+Change Net Name : Old Net Name=NetR9_1 New Net Name=16U2_16MHZ_XTAL1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=328P_16MHZ_XTAL2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=USER_BUTTON
+Added Pin To Net: NetName=16U2PROG_328P_RESETn Pin=JP2-2
+Added Pin To Net: NetName=16U2PROG_328P_RESETn Pin=R8-1
+Added Pin To Net: NetName=16U2PROG_328P_RESETn Pin=V1-13
+Added Net: Name=16U2PROG_328P_RESETn
+Added Pin To Net: NetName=AD3 Pin=J9-4
+Added Pin To Net: NetName=AD3 Pin=U3-26
+Added Net: Name=AD3
