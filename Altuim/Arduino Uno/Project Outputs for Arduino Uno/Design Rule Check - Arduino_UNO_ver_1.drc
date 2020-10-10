@@ -1,58 +1,63 @@
 Protel Design System Design Rule Check
 PCB File : D:\heman\Documents\PCB design\Arduino Uno\Altuim\Arduino Uno\Arduino_UNO_ver_1.PcbDoc
 Date     : 10/10/2020
-Time     : 16:06:01
+Time     : 22:31:14
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=11.811mil) (Max=19.685mil) (Preferred=11.811mil) (All)
+Processing Rule : Width Constraint (Min=0.4mm) (Max=0.4mm) (Preferred=0.4mm) ((InNet('+3V3') OR InNet('+3V3_16U2_UCAP') OR InNet('+5V') OR InNet('+5V/3V3') OR InNet('+5V/3V3_16U2') OR InNet('+5V/3V3_328P_AVCC') OR InNet('+5V/3V3_328P_VCC') OR InNet('GND') OR InNet('+5V_USB') OR InNet('+AREF')))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=11.811mil) (MaxHoleWidth=11.811mil) (PreferredHoleWidth=11.811mil) (MinWidth=23.622mil) (MaxWidth=23.622mil) (PreferedWidth=23.622mil) (All)
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
 Rule Violations :0
 
-Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=10mil) (Max=10mil) (Prefered=10mil)  and Width Constraints (Min=15mil) (Max=15mil) (Prefered=15mil) (All)
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=393.701mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=10mm) (All)
 Rule Violations :0
 
 Processing Rule : Pads and Vias to follow the Drill pairs settings
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=11.811mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (2.953mil < 3.937mil) Between Pad J6-5(190.945mil,702.756mil) on Top Layer And Track (197.264mil,670.276mil)(197.264mil,687.992mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.953mil]
-Rule Violations :1
-
-Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
