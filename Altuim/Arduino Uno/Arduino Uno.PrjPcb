@@ -126,6 +126,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Arduino Uno\BOM\Bill of Materials-Arduino Uno.xls
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Arduino Uno\Design Rule Check - Arduino_UNO_ver_1.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NotFitted
 Value=NF

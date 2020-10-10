@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=328P_16MHZ_XTAL2 Pin=U3-10
+Change Net Color : Old Net Color=RGB(204, 0, 153) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(0, 0, 153) New Net Color=Default
