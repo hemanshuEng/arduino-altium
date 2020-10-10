@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\heman\Documents\PCB design\Arduino Uno\Altuim\Arduino Uno\Arduino_UNO_ver_1.PcbDoc
 Date     : 10/10/2020
-Time     : 22:31:14
+Time     : 22:35:08
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -54,10 +54,18 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
+   Violation between Component Clearance Constraint: (Collision < 0.2mm) Between Component SW1-1825910-6 (22.1mm,5mm) on L1 And SMT Small Component FID2-FID_1MMC (21.925mm,5.1mm) on L1 
+   Violation between Component Clearance Constraint: (Collision < 0.2mm) Between DIP Component U3-ATMEGA328P-PU (62.065mm,20.193mm) on L1 And SMT Small Component SCKT FOR U1-28-DIP Socket (45.655mm,16.283mm) on L1 
+   Violation between Component Clearance Constraint: (Collision < 0.2mm) Between SIP Component J8-M20-7821046 (41.656mm,50.8mm) on L1 And Small Component MH1-MH_7.4MMNC_3.2MMD (15.24mm,50.8mm) on L1 
+   Violation between Component Clearance Constraint: (Collision < 0.2mm) Between SIP Component J9-HDR FEMALE 6x2.54 (50.8mm,2.54mm) on L1 And Small Component MH3-MH_7.4MMC_3.2MMd (66.04mm,7.62mm) on L1 
+   Violation between Component Clearance Constraint: (Collision < 0.2mm) Between SMT Small Component R13-0 R (33.3mm,7.6mm) on L1 And SMT Small Component R14-0 R (33.3mm,5.75mm) on L1 
+Rule Violations :5
+
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 5
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
